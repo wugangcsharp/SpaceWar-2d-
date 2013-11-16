@@ -1,0 +1,9 @@
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\UnityEditor.dll
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\UnityEngine.dll
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\nunit.framework.dll
+D:\Unity3D\2D\SpaceWar\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity3D\2D\SpaceWar\obj\Debug\Assembly-CSharp.dll
+D:\Unity3D\2D\SpaceWar\obj\Debug\Assembly-CSharp.pdb
